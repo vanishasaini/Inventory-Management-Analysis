@@ -1,0 +1,5 @@
+ProductID,ProductName,Category,ReorderLevel
+101,Notebook,Stationery,20
+102,Pen,Stationery,50
+103,Laptop,Electronics,5
+104,Mouse,Electronics,10

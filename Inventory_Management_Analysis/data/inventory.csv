@@ -1,0 +1,5 @@
+InventoryID,ProductID,StockOnHand,LastUpdated
+1,101,15,2024-05-03
+2,102,25,2024-05-03
+3,103,3,2024-05-03
+4,104,12,2024-05-03
